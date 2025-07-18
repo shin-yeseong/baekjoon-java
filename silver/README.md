@@ -4,3 +4,4 @@
 | --------- | ---- | -------------------------------------------------- |
 | 10828     | 스택 | [백준 문제](https://www.acmicpc.net/problem/10828) |
 | 10773     | 제로 | [백준 문제](https://www.acmicpc.net/problem/10773) |
+| 9012      | 괄호 | [백준 문제](https://www.acmicpc.net/problem/9012)  |
