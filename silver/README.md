@@ -6,3 +6,4 @@
 | 10773     | 제로     | [백준 문제](https://www.acmicpc.net/problem/10773) |
 | 9012      | 괄호     | [백준 문제](https://www.acmicpc.net/problem/9012)  |
 | 1874      | 스택수열 | [백준 문제](https://www.acmicpc.net/problem/1874)  |
+| 10845     | 큐       | [백준 문제](https://www.acmicpc.net/problem/10845) |
