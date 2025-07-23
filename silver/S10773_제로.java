@@ -7,7 +7,6 @@ import java.io.IOException;
 public class S10773_제로 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringBuilder sb = new StringBuilder();
 
         Stack<Integer> stack = new Stack<>();
 
