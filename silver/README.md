@@ -8,3 +8,4 @@
 | 1874      | 스택수열      | [백준 문제](https://www.acmicpc.net/problem/1874)  |
 | 10845     | 큐            | [백준 문제](https://www.acmicpc.net/problem/10845) |
 | 4949      | 균형잡힌 세상 | [백준 문제](https://www.acmicpc.net/problem/4949)  |
+| 11279     | 최대힙        | [백준 문제](https://www.acmicpc.net/problem/11279) |
